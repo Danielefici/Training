@@ -6,7 +6,7 @@ def somma(a:float,b:float):
 
 def main():
     a=5
-    B=6
+    b=6
     somma(a,b)
 
 if __name__ == "__main__":
